@@ -4,6 +4,7 @@
 **/.vscode/
 **/next-env.d.ts
 **/.next/
-**/assets/
+/client/assets/
+/server/assets/
 **/public/assets
 **/public/**
