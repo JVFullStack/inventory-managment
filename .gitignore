@@ -1,0 +1,9 @@
+**/.env
+**/node_modules/
+**/dist
+**/.vscode/
+**/next-env.d.ts
+**/.next/
+**/assets/
+**/public/assets
+**/public/**
